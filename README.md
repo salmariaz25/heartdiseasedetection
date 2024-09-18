@@ -2,9 +2,9 @@
 
 Readme – Report
 
-( Logistic regression is used for carrying out this task. Premade dataset found in Kaggle was used and modified. 
-Link to the dataset : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
-Certain modifications were made to the dataset such as removing the columns trestbps, thalach, and thal. It was done so as it did not have much effect in providing the end results. As well as, it will be easier for patients to enter much lesser details.)
+( Logistic regression is used for carrying out this task. Premade dataset found in Kaggle was used and modified.
+Link to the original dataset : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+Certain modifications were made to the dataset such as removing the columns trestbps, thalach, and thal. It was done so as it did not have much effect in providing the end results. As well as, it will be easier for patients to enter much lesser details. Revised dataset is uploaded in this repository.)
 
 In todays world of technology in most of every sector, improvement in patient care and management with the advancement of technological innovation continues. Heart failure, which is a very common and fatal condition, necessitates serious approaches to early detection and care. 
 This report presents the possibility of using logistic regression, a machine learning approach, to forecast the risk of heart failure in a mobile or miniature robotic platform. People can obtain real-time insights into their cardiovascular health state by integrating advanced algorithms with portable robotics. This allows them to take proactive steps to reduce risks and improve their overall well-being.
